@@ -54,7 +54,7 @@ git status
 the files you change/add, that git considers to send online will be in green
 
 (9) you need to say something about what you changed, and say you are ok with the current changes, (usually means the code can run), so do:
-git -m commit "add file arnaud.txt"
+git  commit -m "add file arnaud.txt"
 
 (9) you can do git status again to check
 
